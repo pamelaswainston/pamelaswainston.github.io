@@ -1,4 +1,5 @@
 # pamelaswainston.github.io
 ## ELA Teacher
 ### Lesson Plans
-#### Lesson Title
+#### LESSON TITLE
+##### Lesson Description
