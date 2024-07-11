@@ -2,4 +2,4 @@
 ## ELA Teacher
 ### Lesson Plans
 #### LESSON TITLE
-##### Lesson Description
+##### Lesson Description: Include general description of the lesson
